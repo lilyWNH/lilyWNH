@@ -10,7 +10,7 @@
 
 - 🎨 Behance protofolio link [https://www.behance.net/warshaherath](https://www.behance.net/warshaherath)
 
-- 💬 Ask me about **c, c++, figma, illustrator**
+- 💬 Ask me about **c, c++, sql, figma, illustrator**
 
 - 📫 How to reach me **warshanimanthi@gmail.com**
 
